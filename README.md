@@ -1,5 +1,6 @@
 # 8BW_TASK_AUTOMATION
 🌟Automate File Renaming Script in Python🌟
+
 This Python script automates file renaming in a specified directory by adding a user-defined prefix. Using the os module, it navigates and renames each file by appending the chosen prefix. With error handling, the script offers a concise solution for efficient batch file renaming. This script is a handy tool for anyone dealing with large sets of files and wants to add a consistent prefix to their filenames.
 
 WORKING:
