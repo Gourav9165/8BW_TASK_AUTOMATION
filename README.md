@@ -6,7 +6,11 @@ This Python script automates file renaming in a specified directory by adding a 
 
 **WORKING:**
 **1. User Input:** The script takes user input for the destination path and the desired prefix for file renaming.
+
 **2. File Renaming Loop:** It then iterates through all files in the specified directory, checking if each item is a file.
+
 **3. Renaming Process: **For each file, it constructs a new filename by appending the provided prefix and then renames the file accordingly using the os.rename function.
+
 **4. Feedback:** Throughout the process, the script provides feedback by printing the old and new filenames for each file.
+
 **5. Error Handling:** The script includes error handling to catch any exceptions that may occur during the execution and prints an informative message.
